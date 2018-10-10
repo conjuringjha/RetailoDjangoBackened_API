@@ -17,7 +17,7 @@ import time
 import geocoder
 from datetime import timedelta
 
-
+#changes have been made by commenting
 ############################################################################################################################################################################3
 #Establishing conection with Database
 conn = psycopg2.connect("dbname=postgres user=postgres password=fortuner123 host='35.224.223.126'")
